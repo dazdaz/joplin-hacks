@@ -12,8 +12,8 @@ span.title, span.tag-label {
 }
 
 /* SubNoteBook Font Size */
-.note-list-item > a > span {
-    font-size:15px;
+div.note-list-item > .content > .title > span {
+font-size: 16px; font-family: "Caxton Std"; color: black;
 }
 
 /* */
