@@ -13,7 +13,7 @@ span.title, span.tag-label {
 
 /* SubNoteBook Font Size */
 div.note-list-item > .content > .title > span {
-font-size: 16px; font-family: "Caxton Std"; color: black;
+font-size: 16px; font-family: "Times New Roman"; color: black;
 }
 
 /* */
@@ -33,3 +33,4 @@ span.title, span tag-label {
 ```
 
 https://github.com/alxnbl/onenote-md-exporter
+https://discourse.joplinapp.org/
