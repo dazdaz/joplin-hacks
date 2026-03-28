@@ -1,6 +1,6 @@
 # joplin_hacks
 
-# Settings / Appearance / Preferred Dark Theme / Light
+### Settings / Appearance / Preferred Dark Theme / Light
 
 $ cat ~/.config/joplin-desktop/userchrome.css
 
